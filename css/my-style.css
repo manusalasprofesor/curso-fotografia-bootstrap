@@ -1,0 +1,37 @@
+.carousel-caption{
+    bottom: 35%;
+}
+
+.carousel-item{
+    height: 70vh;
+}
+
+.carousel-item > img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.video_prueba{
+    height: 60vh;
+}
+
+.video_prueba > video{
+    object-fit: cover;
+    height: 100%;
+}
+
+.mapa{
+    height: 40vh;
+}
+
+.mapa iframe{
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 425px) {
+    .video_prueba{
+        height: 40vh;
+    }
+}
