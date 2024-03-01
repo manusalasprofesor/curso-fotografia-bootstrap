@@ -23,4 +23,6 @@
 
 5.- Y ejecutar el script escribiendo el siguiente comando en la terminal: **npm run limpiacss**
 
+6.- Nos habrá creado un nuevo archivo CSS llamado **optimizado.css** que tendremos que vincular con nuestro HTML, y Listos!!!
+
 
